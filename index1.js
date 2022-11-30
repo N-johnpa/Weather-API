@@ -10,7 +10,7 @@ var uv =document.querySelector(".uv-heading");
 var feelslike = document.querySelector(".feels-heading");
 
 function getRequestApi() {
-    const apidata = "http://api.weatherstack.com/current?access_key=8cbec4b7aed04afe583c09d1d3330bf0&query=India"
+    const apidata = "https://api.weatherstack.com/current?access_key=8cbec4b7aed04afe583c09d1d3330bf0&query=India"
     fetch(apidata)
     .then((response) => {
         return response.json();
