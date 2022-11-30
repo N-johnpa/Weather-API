@@ -1,0 +1,303 @@
+.bg-color{
+    position: absolute;
+width: 1728px;
+height: 837px;
+left: 0px;
+top: 0px;
+
+background: #000000;
+}
+
+.heading1{
+    position: absolute;
+width: 692.27px;
+height: 144px;
+left: 518px;
+top: 101px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 100px;
+line-height: 121px;
+
+color: #FFFFFF;
+
+}
+
+.btn-bg{
+    position: absolute;
+width: 260.75px;
+height: 58px;
+left: 146px;
+top: 549px;
+
+background: #FFFFFF;
+}
+.btn-text{
+    position: absolute;
+width: 93.46px;
+height: 33px;
+left: 224.46px;
+top: 561px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+
+color: #000000;
+
+}
+.heading2{
+    position: absolute;
+width: 912px;
+height: 160px;
+left: 62px;
+top: 941px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 100px;
+line-height: 121px;
+
+color: #000000;
+}
+
+.loaction-bg{
+    box-sizing: border-box;
+
+position: absolute;
+width: 1372px;
+height: 72px;
+left: 146px;
+top: 302px;
+
+border: 1px solid #FFFFFF;
+
+}
+
+.loaction-heading{
+    position: absolute;
+width: 321px;
+height: 29px;
+left: 159px;
+top: 323px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}
+
+.access-token-bg{
+    box-sizing: border-box;
+
+position: absolute;
+width: 1372px;
+height: 72px;
+left: 146px;
+top: 409px;
+
+border: 1px solid #FFFFFF;
+
+}
+
+.access-token-heading{
+    position: absolute;
+width: 202px;
+height: 29px;
+left: 159px;
+top: 430px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.location-heading{
+    position: absolute;
+width: 669.46px;
+height: 74px;
+left: 116px;
+top: 1192px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 61px;
+
+color: #000000;
+}
+
+.lat-heading{
+    position: absolute;
+width: 669.46px;
+height: 74px;
+left: 116px;
+top: 1301px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 61px;
+
+color: #000000;
+
+}
+
+.long-heading{
+    position: absolute;
+width: 669.46px;
+height: 74px;
+left: 849px;
+top: 1313px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 61px;
+
+color: #000000;
+}
+
+.time-heading{
+    position: absolute;
+width: 669.46px;
+height: 74px;
+left: 116px;
+top: 1410px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 61px;
+
+color: #000000;
+}
+
+.Wind-heading{
+    position: absolute;
+width: 669.46px;
+height: 74px;
+left: 116px;
+top: 1519px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 61px;
+
+color: #000000;
+}
+
+.Pressure-heading{
+    position: absolute;
+width: 669.46px;
+height: 74px;
+left: 116px;
+top: 1622px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 61px;
+
+color: #000000;
+}
+
+.Humidity-heading{
+    position: absolute;
+width: 669.46px;
+height: 74px;
+left: 116px;
+top: 1725px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 61px;
+
+color: #000000;
+
+}
+
+.Wind-direction-heading{
+    position: absolute;
+width: 669.46px;
+height: 74px;
+left: 116px;
+top: 1828px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 61px;
+
+color: #000000;
+}
+
+.uv-heading{
+    position: absolute;
+width: 669.46px;
+height: 74px;
+left: 116px;
+top: 1937px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 61px;
+
+color: #000000;
+}
+
+.feels-heading{
+    position: absolute;
+width: 669.46px;
+height: 74px;
+left: 116px;
+top: 2040px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 61px;
+
+color: #000000;
+}
+
+.rectangle-box{
+    box-sizing: border-box;
+
+position: absolute;
+width: 1585px;
+height: 1120px;
+left: 62px;
+top: 1136px;
+
+border: 2px solid #000000;}
